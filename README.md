@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=32&pause=1000&color=64748B&center=true&vCenter=true&width=600&lines=Yago+Vanzan;iOS+Engineer+%C2%B7+Swift+%C2%B7+SwiftUI;Fintech+%26+Scale+%C2%B7+TDD+%C2%B7+CI%2FCD" alt="Yago Vanzan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=32&pause=1000&color=64748B&center=true&vCenter=true&width=600&lines=Yago+Vanzan;iOS+Engineer+%C2%B7+Swift+%C2%B7+SwiftUI;TDD+%7C+Mobile+Performance&delay=1000" alt="Yago Vanzan - iOS Engineer">
 </div>
 
 &nbsp;
@@ -41,11 +41,9 @@
 
 &nbsp;
 
----
-
 ## 🎧 Currently Playing
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/SEU_USER_ID)
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_USER_ID&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ---
 
