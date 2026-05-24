@@ -30,10 +30,6 @@
 **Languages and Tools:**
 
 <p>
-  <a href="https://github.com/Yago-Vanzan">
-    <img width="50%" align="right" alt="Yago's github stats" src="https://github-readme-stats.vercel.app/api?username=Yago-Vanzan&show_icons=true&hide_border=true&theme=swift" />
-  </a>
-
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
