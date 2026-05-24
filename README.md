@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
   <div style="border-radius: 24px; overflow: hidden; width: 100%;">
-    <img src="https://raw.githubusercontent.com/Yago-Vanzan/Yago-Vanzan/main/header.png" alt="Yago Vanzan - iOS Developer" width="100%">
+    <img src="https://raw.githubusercontent.com/Yago-Vanzan/Yago-Vanzan/main/Header.png" alt="Yago Vanzan - iOS Developer" width="100%">
   </div>
 </div>
 
@@ -46,6 +46,6 @@
 <!-- Footer -->
 <div align="center">
   <div style="border-radius: 24px; overflow: hidden; width: 100%;">
-    <img src="https://raw.githubusercontent.com/Yago-Vanzan/Yago-Vanzan/main/footer.png" alt="Footer" width="100%">
+    <img src="https://raw.githubusercontent.com/Yago-Vanzan/Yago-Vanzan/main/Footer.png" alt="Footer" width="100%">
   </div>
 </div>
