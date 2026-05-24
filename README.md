@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FA7343&center=true&vCenter=true&width=600&lines=Yago+Vanzan;iOS+Engineer+%C2%B7+Swift+%C2%B7+SwiftUI;Fintech+%26+Scale+%C2%B7+TDD+%C2%B7+CI%2FCD" alt="Yago Vanzan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=90076&center=true&vCenter=true&width=600&lines=Yago+Vanzan;iOS+Engineer+%C2%B7+Swift+%C2%B7+SwiftUI;Fintech+%26+Scale+%C2%B7+TDD+%C2%B7+CI%2FCD" alt="Yago Vanzan" />
 </h1>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-vanzan)
