@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Yago-Vanzan/Yago-Vanzan/main/header.png" alt="Yago Vanzan - iOS Developer" width="80%" style="max-width: 600px;">
+  <img src="https://raw.githubusercontent.com/Yago-Vanzan/Yago-Vanzan/main/header.png" alt="Yago Vanzan - iOS Developer" width="100%" style="height: 280px; object-fit: cover; border-radius: 16px;">
 </div>
 
 &nbsp;
