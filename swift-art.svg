@@ -1,0 +1,89 @@
+<svg width="100%" viewBox="0 0 680 400" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Swift iOS developer art</title>
+<desc>Stylized illustration of an iPhone with Swift bird and code elements on white background</desc>
+
+<rect x="0" y="0" width="680" height="400" fill="#ffffff"/>
+
+<circle cx="120" cy="80" r="180" fill="#FA7343" opacity="0.08"/>
+<circle cx="560" cy="320" r="200" fill="#5AC8FA" opacity="0.09"/>
+<circle cx="340" cy="200" r="260" fill="#a78bfa" opacity="0.05"/>
+
+<text x="30" y="55" font-family="monospace" font-size="11" fill="#c0440a" opacity="0.55">struct</text>
+<text x="90" y="55" font-family="monospace" font-size="11" fill="#7c3aed" opacity="0.55">App</text>
+<text x="130" y="55" font-family="monospace" font-size="11" fill="#c0440a" opacity="0.55">: App {</text>
+<text x="30" y="75" font-family="monospace" font-size="11" fill="#0369a1" opacity="0.55">  var</text>
+<text x="62" y="75" font-family="monospace" font-size="11" fill="#c0440a" opacity="0.55"> body:</text>
+<text x="105" y="75" font-family="monospace" font-size="11" fill="#7c3aed" opacity="0.55"> Scene</text>
+<text x="30" y="95" font-family="monospace" font-size="11" fill="#c0440a" opacity="0.55">}</text>
+
+<text x="490" y="330" font-family="monospace" font-size="11" fill="#c0440a" opacity="0.55">func</text>
+<text x="528" y="330" font-family="monospace" font-size="11" fill="#0369a1" opacity="0.55"> build</text>
+<text x="578" y="330" font-family="monospace" font-size="11" fill="#c0440a" opacity="0.55">() {</text>
+<text x="490" y="350" font-family="monospace" font-size="11" fill="#7c3aed" opacity="0.55">  async</text>
+<text x="535" y="350" font-family="monospace" font-size="11" fill="#c0440a" opacity="0.55">/</text>
+<text x="543" y="350" font-family="monospace" font-size="11" fill="#7c3aed" opacity="0.55">await</text>
+<text x="490" y="370" font-family="monospace" font-size="11" fill="#c0440a" opacity="0.55">}</text>
+
+<text x="40" y="340" font-family="monospace" font-size="11" fill="#c0440a" opacity="0.55">@State</text>
+<text x="40" y="360" font-family="monospace" font-size="11" fill="#0369a1" opacity="0.55">var</text>
+<text x="65" y="360" font-family="monospace" font-size="11" fill="#c0440a" opacity="0.55"> isLoaded</text>
+<text x="40" y="380" font-family="monospace" font-size="11" fill="#c0440a" opacity="0.55">= false</text>
+
+<text x="530" y="60" font-family="monospace" font-size="11" fill="#c0440a" opacity="0.55">85%</text>
+<text x="520" y="78" font-family="monospace" font-size="11" fill="#0369a1" opacity="0.55">coverage</text>
+
+<rect x="240" y="40" width="200" height="340" rx="28" fill="#1C1C1E" stroke="#3A3A3C" stroke-width="1.5"/>
+<rect x="248" y="68" width="184" height="284" rx="6" fill="#000"/>
+<rect x="299" y="47" width="82" height="14" rx="7" fill="#2C2C2E"/>
+<circle cx="343" cy="54" r="3.5" fill="#3A3A3C"/>
+
+<rect x="248" y="68" width="184" height="28" rx="3" fill="#111"/>
+<text x="262" y="87" font-family="monospace" font-size="10" fill="#666">9:41</text>
+<rect x="368" y="79" width="22" height="9" rx="2" fill="none" stroke="#555" stroke-width="1"/>
+<rect x="369" y="80" width="15" height="7" rx="1" fill="#4CAF50"/>
+<rect x="391" y="80" width="2" height="7" rx="1" fill="#555"/>
+
+<rect x="258" y="106" width="50" height="50" rx="12" fill="#FA7343"/>
+<path d="M283 121 C283 121 291 125 287 132 C283 138 275 137 275 137 C275 137 283 133 283 128 C283 123 276 119 276 119 C276 119 285 117 289 122 C292 126 290 132 290 132" fill="white"/>
+<text x="258" y="168" font-family="monospace" font-size="9" fill="#888">Swift</text>
+
+<rect x="318" y="106" width="50" height="50" rx="12" fill="#147EFB"/>
+<rect x="329" y="116" width="28" height="30" rx="4" fill="none" stroke="white" stroke-width="2"/>
+<circle cx="343" cy="148" r="2" fill="white"/>
+<text x="318" y="168" font-family="monospace" font-size="9" fill="#888">Xcode</text>
+
+<rect x="378" y="106" width="50" height="50" rx="12" fill="#FF2D55"/>
+<text x="390" y="137" font-family="monospace" font-size="16" fill="white" font-weight="bold">UI</text>
+<text x="378" y="168" font-family="monospace" font-size="9" fill="#888">UIKit</text>
+
+<rect x="258" y="180" width="170" height="60" rx="10" fill="#1A1A2E"/>
+<text x="268" y="198" font-family="monospace" font-size="9" fill="#5AC8FA">// async/await</text>
+<text x="268" y="212" font-family="monospace" font-size="9" fill="#a78bfa">func</text>
+<text x="295" y="212" font-family="monospace" font-size="9" fill="#FA7343"> fetchData</text>
+<text x="348" y="212" font-family="monospace" font-size="9" fill="#eee">() async {</text>
+<text x="268" y="226" font-family="monospace" font-size="9" fill="#a78bfa">  await</text>
+<text x="302" y="226" font-family="monospace" font-size="9" fill="#eee"> api.load()</text>
+
+<rect x="258" y="252" width="170" height="40" rx="8" fill="#0A2A0A"/>
+<rect x="268" y="263" width="60" height="8" rx="4" fill="#4CAF50"/>
+<rect x="268" y="275" width="45" height="5" rx="2" fill="#2E7D32" opacity="0.6"/>
+<text x="338" y="272" font-family="monospace" font-size="9" fill="#4CAF50">85%</text>
+<text x="338" y="284" font-family="monospace" font-size="8" fill="#2E7D32">tests</text>
+
+<rect x="258" y="303" width="80" height="30" rx="8" fill="#FA7343"/>
+<text x="283" y="322" font-family="monospace" font-size="10" fill="white" text-anchor="middle">Ship it</text>
+<rect x="348" y="303" width="80" height="30" rx="8" fill="#1C1C1E" stroke="#3A3A3C" stroke-width="1"/>
+<text x="373" y="322" font-family="monospace" font-size="10" fill="#888" text-anchor="middle">Cancel</text>
+
+<circle cx="343" cy="358" r="16" fill="#2C2C2E" stroke="#3A3A3C" stroke-width="1"/>
+
+<line x1="100" y1="200" x2="238" y2="200" stroke="#FA7343" stroke-width="0.5" stroke-dasharray="4,4" opacity="0.5"/>
+<line x1="442" y1="200" x2="580" y2="200" stroke="#5AC8FA" stroke-width="0.5" stroke-dasharray="4,4" opacity="0.5"/>
+<circle cx="100" cy="200" r="3" fill="#FA7343" opacity="0.6"/>
+<circle cx="580" cy="200" r="3" fill="#5AC8FA" opacity="0.6"/>
+
+<text x="50" y="196" font-family="monospace" font-size="10" fill="#c0440a" opacity="0.7" text-anchor="middle">MVVM-C</text>
+<text x="50" y="210" font-family="monospace" font-size="10" fill="#c0440a" opacity="0.5" text-anchor="middle">VIPER</text>
+<text x="630" y="196" font-family="monospace" font-size="10" fill="#0369a1" opacity="0.7" text-anchor="middle">CI/CD</text>
+<text x="630" y="210" font-family="monospace" font-size="10" fill="#0369a1" opacity="0.5" text-anchor="middle">TDD</text>
+</svg>
