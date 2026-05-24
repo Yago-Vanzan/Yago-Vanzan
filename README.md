@@ -25,6 +25,8 @@
 - 📫 Reach me at: **villarvanzan@gmail.com**
 - 🇧🇷 Também disponível para o mercado brasileiro
 
+<br clear="all" />
+
 &nbsp;
 
 ## Languages and Tools
