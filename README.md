@@ -1,11 +1,7 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Yago-Vanzan/Yago-Vanzan/main/header.png" alt="Yago Vanzan - iOS Developer" width="100%" style="height: 280px; object-fit: cover; border-radius: 16px;">
+  <img src="https://raw.githubusercontent.com/Yago-Vanzan/Yago-Vanzan/main/header.png" alt="Yago Vanzan - iOS Developer" width="100%" style="height: 360px; object-fit: cover; border-radius: 24px;">
 </div>
-
-&nbsp;
-
----
 
 ## Hey there! 👋
 
@@ -44,8 +40,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yagovillar&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=yagovillar&redirect=true)
 
----
 
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Yago-Vanzan&color=9D4EDD&style=flat" />
-</p>
