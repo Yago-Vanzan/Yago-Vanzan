@@ -1,69 +1,65 @@
-<!-- Header -->
+<!-- Apple-style GitHub README -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=32&pause=1000&color=64748B&center=true&vCenter=true&width=600&lines=Yago+Vanzan;iOS+Engineer+%C2%B7+Swift+%C2%B7+SwiftUI;Fintech+%26+Scale+%C2%B7+TDD+%C2%B7+CI%2FCD" alt="Yago Vanzan" />
+
+# Yago Vanzan
+
+### iOS Engineer
+
+Building scalable fintech experiences with Swift and SwiftUI.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yago-vanzan)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:villarvanzan@gmail.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](SEU_LINK_SPOTIFY)
+
 </div>
 
 &nbsp;
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yago-vanzan)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:villarvanzan@gmail.com)
-![Location](https://img.shields.io/badge/Rio_de_Janeiro_🇧🇷-009C3B?style=flat)
-![Hiring](https://img.shields.io/badge/Available_for_Hire-FA7343?style=flat)
+<img align="right" width="42%" src="https://raw.githubusercontent.com/Yago-Vanzan/Yago-Vanzan/main/21004063.svg" />
+
+## About
+
+iOS Engineer with 5+ years building products for fintech and large-scale mobile applications.
+
+Focused on performance, architecture, testing, and user experience.
+
+- Swift • SwiftUI • UIKit
+- TDD • CI/CD • Modular Architecture
+- MVVM-C • VIPER • async/await
+- Firebase • REST APIs • SPM
 
 &nbsp;
 
-**About me:**
+## Experience Highlights
 
-<img width="50%" align="right" alt="iOS Swift Art" src="https://raw.githubusercontent.com/Yago-Vanzan/Yago-Vanzan/main/21004063.svg" />
-
-- 📱 iOS Engineer with **5+ years** in fintech
-- 🧪 Obsessed with **TDD** — 85% test coverage @ T-Mobile
-- 🔒 Reduced financial fraud by **75%** @ IZZI Remessas
-- ⚡ 300K+ downloads on a fintech app I architected from scratch
-- 🌍 Open to **remote or international** opportunities
-- 💬 Ask me about Swift, architecture, CI/CD, or fintech
-- 📫 Reach me at: villarvanzan@gmail.com
-- 🇧🇷 Também disponível para o mercado brasileiro
+- Reduced financial fraud by **75%** at IZZI Remessas
+- Improved app stability and performance at PagBank
+- Achieved high automated test coverage at T-Mobile
+- Helped scale fintech products used by thousands of users
 
 &nbsp;
 
-**Languages and Tools:**
+## Currently Playing
 
-<p>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-</p>
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=SEU_USER_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=000000&interchange=false&bar_color=ffffff&bar_color_cover=false)](https://open.spotify.com/user/SEU_USER_ID)
 
 &nbsp;
 
----
+## GitHub Stats
 
-```swift
-struct YagoVanzan: iOSEngineer {
-    let stack        = ["Swift", "SwiftUI", "UIKit", "async/await"]
-    let architecture = ["MVVM-C", "VIPER", "TDD", "CI/CD", "SPM"]
-    let philosophy   = "Code that doesn't wake anyone up at 3am."
-}
-```
+<div align="center">
 
----
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Yago-Vanzan&show_icons=true&hide_border=true&theme=transparent" />
 
-**Career metrics:**
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yago-Vanzan&layout=compact&hide_border=true&theme=transparent" />
 
-```
-Test Coverage     ████████████████████░░░░  85%  @ T-Mobile
-Fraud Reduction   ███████████████████░░░░░  75%  @ IZZI Remessas
-Stability Gain    ███████████████░░░░░░░░░  60%  @ PagBank
-Bug Reduction     █████████░░░░░░░░░░░░░░░  35%  @ T-Mobile & PagBank
-```
+</div>
 
----
+&nbsp;
 
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Yago-Vanzan&color=FA7343&style=flat" />
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Yago-Vanzan&theme=transparent&hide_border=true" />
+
+</div>
