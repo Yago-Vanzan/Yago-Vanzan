@@ -9,24 +9,17 @@
 
 ## Hey there! 👋
 
-<img width="50%" align="right" alt="iOS Swift Art" src="https://raw.githubusercontent.com/Yago-Vanzan/Yago-Vanzan/main/21004063.svg" />
-
 <div style="font-size: 18px;">
-
-I'm **Yago**, an iOS engineer with **5+ years** in fintech, obsessed with writing clean, scalable code and building exceptional mobile experiences.
-
-### What I do:
-- 📱 **iOS Development** - Swift, SwiftUI, and everything in between
-- 🧪 **TDD Advocate** - Tests first, always
-- 🏗️ **Architecture** - Clean code, SOLID principles, scalability
-- 💰 **Fintech Expert** - Reduced fraud by **75%** @ IZZI Remessas
-- ⚡ **Mobile Performance** - Architected a fintech app with 300K+ downloads
-
-### Let's chat about:
-Swift • Architecture • CI/CD • Mobile Performance • TDD • Fintech
-
-📧 **villarvanzan@gmail.com** | 🇧🇷 **Rio de Janeiro**
-
+  
+- 📱 iOS Engineer with **5+ years** in fintech
+- 🧪 Strong focus on **TDD**, scalability, and maintainability
+- 🔒 Reduced financial fraud by **75%** @ IZZI Remessas
+- ⚡ 300K+ downloads on a fintech app architected from scratch
+- 🌍 Open to **remote and international opportunities**
+- 💬 Ask me about Swift, architecture, CI/CD, and mobile performance
+- 📫 Reach me at: **villarvanzan@gmail.com**
+- 🇧🇷 Também disponível para o mercado brasileiro
+  
 </div>
 
 <br clear="all" />
