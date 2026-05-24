@@ -16,6 +16,8 @@
 
 <img width="50%" align="right" alt="iOS Swift Art" src="https://raw.githubusercontent.com/Yago-Vanzan/Yago-Vanzan/main/21004063.svg" />
 
+<div style="font-size: 18px;">
+
 - 📱 iOS Engineer with **5+ years** in fintech
 - 🧪 Strong focus on **TDD**, scalability, and maintainability
 - 🔒 Reduced financial fraud by **75%** @ IZZI Remessas
@@ -24,6 +26,8 @@
 - 💬 Ask me about Swift, architecture, CI/CD, and mobile performance
 - 📫 Reach me at: **villarvanzan@gmail.com**
 - 🇧🇷 Também disponível para o mercado brasileiro
+
+</div>
 
 <br clear="all" />
 
