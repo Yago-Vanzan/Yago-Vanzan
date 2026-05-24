@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FA7343&center=true&vCenter=true&width=600&lines=Yago+Vanzan;iOS+Engineer+%C2%B7+Swift+%C2%B7+SwiftUI;Fintech+%26+Scale+%C2%B7+TDD+%C2%B7+CI%2FCD" alt="Yago Vanzan" />
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=700&size=32&pause=1000&color=64748B&center=true&vCenter=true&width=600&lines=Yago+Vanzan;iOS+Engineer+%C2%B7+Swift+%C2%B7+SwiftUI;Fintech+%26+Scale+%C2%B7+TDD+%C2%B7+CI%2FCD" alt="Yago Vanzan" />
 </div>
 
 &nbsp;
@@ -30,6 +30,10 @@
 **Languages and Tools:**
 
 <p>
+  <a href="https://github.com/Yago-Vanzan">
+    <img width="50%" align="right" alt="Yago's github stats" src="https://github-readme-stats.vercel.app/api?username=Yago-Vanzan&show_icons=true&hide_border=true&theme=swift" />
+  </a>
+
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
