@@ -22,10 +22,9 @@
 
 &nbsp;
 
----
 
 ## 🛠️ Tech Stack
-
+&nbsp;
 <p align="center">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/apple_xcode/apple_xcode-ar21.svg"></code>
@@ -34,13 +33,13 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 </p>
 
----
+&nbsp;
 
 ## 🎵 What I'm Listening to
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yagovillar&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=yagovillar&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yagovillar&cover_image=true&theme=natemoo-re&show_offline=false&background_color=ffffff&interchange=false&profanity=false&hide_remaster=false&bar_color=8e7bab&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=yagovillar&redirect=true)
 
----
+&nbsp;
 
 <!-- Footer -->
 <div align="center">
@@ -48,7 +47,3 @@
 </div>
 
 &nbsp;
-
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=Yago-Vanzan&color=9D4EDD&style=flat" />
-</p>
