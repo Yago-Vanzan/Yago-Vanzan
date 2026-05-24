@@ -45,7 +45,7 @@
 
 ## 🎵 Top Tracks
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=yagovillar&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=yagovillar&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false&mode=dark)](https://spotify-github-profile.kittinanx.com/api/view?uid=yagovillar&redirect=true)
 
 ---
 
