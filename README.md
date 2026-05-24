@@ -14,7 +14,7 @@
 
 **About me:**
 
-<img width="50%" align="right" alt="iOS Swift Art" src="https://raw.githubusercontent.com/Yago-Vanzan/Yago-Vanzan/main/swift-art.svg" />
+<img width="50%" align="right" alt="iOS Swift Art" src="https://raw.githubusercontent.com/Yago-Vanzan/Yago-Vanzan/main/21004063.svg" />
 
 - 📱 iOS Engineer with **5+ years** in fintech
 - 🧪 Obsessed with **TDD** — 85% test coverage @ T-Mobile
